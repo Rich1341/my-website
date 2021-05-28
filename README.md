@@ -7,3 +7,6 @@ on demo branch
 ## Repository Purpose
 
 this file is a readme
+
+## Purpose
+the purpose of this file is to provide examples on how to use Git and Github together
