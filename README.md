@@ -1,4 +1,3 @@
 # my-website
-
-eidt on the example branch
-No editing on update-readme branch
+This is a awesome website
+updates made on the master on Github  before rebase
